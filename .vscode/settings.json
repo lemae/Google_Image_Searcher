@@ -1,0 +1,4 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "python.pythonPath": "/Users/zenghui/miniforge3/envs/spider/bin/python"
+}
