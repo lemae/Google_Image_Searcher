@@ -1,0 +1,19 @@
+{
+  "upload": "upload",
+  "download": "download",
+  "separate": true,
+  "extention": [
+    ".bmp",
+    ".jpg",
+    ".jpeg",
+    ".tif",
+    ".tiff",
+    ".jfif",
+    ".png",
+    ".gif",
+    ".iff",
+    ".ilbm"
+  ],
+  "url": "https://www.google.com/searchbyimage/upload",
+  "getOriginPic": false
+}

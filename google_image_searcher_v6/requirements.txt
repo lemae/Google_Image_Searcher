@@ -1,0 +1,5 @@
+colorama==0.4.3
+beautifulsoup4==4.8.2
+tqdm==4.43.0
+requests==2.22.0
+lxml==4.7.1
